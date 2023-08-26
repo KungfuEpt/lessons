@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9911fc-2dc6-4c32-8f00-833dca7a67f7" name="Changes" comment="First Commit">
+    <list default="true" id="3b9911fc-2dc6-4c32-8f00-833dca7a67f7" name="Changes" comment="Д/з Второй Урок">
+      <change afterPath="$PROJECT_DIR$/lesson3/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +36,15 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Имя/PycharmProjects/Amethyst-Bot",
+    "last_opened_file_path": "C:/Users/Имя/PycharmProjects/Lessons/lesson3",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Имя\PycharmProjects\Lessons\lesson3" />
+      <recent name="C:\Users\Имя\PycharmProjects\Lessons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Имя\PycharmProjects\Lessons\lesson2" />
     </key>
@@ -60,11 +65,26 @@
       <option name="project" value="LOCAL" />
       <updated>1693054215230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Д/з Второй Урок">
+      <created>1693055813102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693055813102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Д/з Второй Урок">
+      <created>1693055836338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693055836338</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Д/з Второй Урок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Д/з Второй Урок" />
   </component>
 </project>

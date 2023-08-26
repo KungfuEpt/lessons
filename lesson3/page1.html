@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--  Link CSS  -->
+    <link rel="stylesheet" href="css.css">
+    <!--  Link Bootstrap  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Page 1</title>
+</head>
+<body>
+    <ul class="nav justify-content-center nav-pills">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="#">1 Страница</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="page2.html">2 Страница</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="page2.html" target="_blank">2 Страница (В новой влкадке)</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/KungfuEpt">Github</a>
+      </li>
+    </ul>
+
+    <h1>1 Страница</h1>
+
+    <!--  Тэг а, ссылки  -->
+<!--    <div class="atags">-->
+<!--        <a class="btn btn-outline-primary" href="page2.html" role="button">Link 2</a>-->
+<!--        <a class="btn btn-outline-success" href="page2.html" role="button" target="_blank">Link 2 (В новой вкладке)</a>-->
+<!--    </div>-->
+
+    <!--  Формы (Не работает, нужен JS) -->
+    <!--  Напоминание: Попробовать JS, написать бота на нём  -->
+    <div class="forms">
+        <h2>Опросник</h2>
+
+      <div class="mb-3">
+          <label class="form-label">Ваше имя</label>
+          <input type="email" class="form-control">
+      </div>
+
+      <label class="form-label">Ваша дата рождения</label>
+      <div class="input-group mb-3">
+          <span class="input-group-text">Д</span>
+          <input type="text" class="form-control" placeholder="День"  aria-label="День">
+          <span class="input-group-text">М</span>
+          <input type="text" class="form-control" placeholder="Месяц" aria-label="Месяц">
+          <span class="input-group-text">Г</span>
+          <input type="text" class="form-control" placeholder="Год" aria-label="Год">
+      </div>
+
+      <label class="form-label">Вы робот?</label>
+      <div class="mb-3 form-check">
+          <input type="checkbox" class="form-check-input" id="CheckRobot">
+          <label class="form-check-label" for="CheckRobot">Я не робот</label>
+      </div>
+            <button type="submit" class="btn btn-primary">Отправить</button>
+  </div>
+
+</body>
+</html>
